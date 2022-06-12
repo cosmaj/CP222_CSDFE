@@ -23,3 +23,11 @@ login(1) => $SHELL #exec(3)
 $SHELL => ls(1) #fork(2) + exec(3) 
 //ls(1) PID M, PPID N, EUID U
 //login file location in fs/nfsd/auth.c
+
+
+/*To check git status */ git status
+/*To congigure global usename and email*/ 
+//git config --global user.name "princessvio48"
+//git config --global user.email "princessvio48@gmail.com"
+/*To check if email and username is configured type*/
+// git config --list
