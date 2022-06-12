@@ -33,3 +33,7 @@ $SHELL => ls(1) #fork(2) + exec(3)
 // git config --list
 /*To commit changed u must type */
 //git commit -a -m "comment" where -a= all and -m = comment
+/* To check the commit logs */
+//git log 
+//also u can specify number of log 
+//git log -4
