@@ -27,8 +27,8 @@ $SHELL => ls(1) #fork(2) + exec(3)
 
 /*To check git status */ git status
 /*To congigure global usename and email*/ 
-//git config --global user.name "princessvio48"
-//git config --global user.email "princessvio48@gmail.com"
+//git config --global user.name "username"
+//git config --global user.email "youremail"
 /*To check if email and username is configured type*/
 // git config --list
 /*To commit changed u must type */
