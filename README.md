@@ -1,4 +1,4 @@
-# CP222_CSDFE
+# SAMPLE FAMILIALIZING WITH GIT. CP222_CSDFE
 CIVE CP222 OpenSource Group work
 # Sequence of Process creation
 # 1. Init is created explicity by the kernel
