@@ -1,5 +1,6 @@
 # SAMPLE FAMILIALIZING WITH GIT. CP222_CSDFE
 CIVE CP222 OpenSource Class activity 2022
+#aim is to learn cp222 more practically
 # Sequence of Process creation
 # 1. Init is created explicity by the kernel
 # 2. Init will fork new process 'getty'
