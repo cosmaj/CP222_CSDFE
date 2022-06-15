@@ -1,0 +1,13 @@
+Adding new branch 
+
+#First option
+
+//git checkout -b branchname
+#Second option
+//git branch branchname
+
+#List available branches
+//git branch
+
+#Switching between branches
+//git checkout branchname
