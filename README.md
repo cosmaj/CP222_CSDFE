@@ -38,3 +38,6 @@ $SHELL => ls(1) #fork(2) + exec(3)
 //git log 
 //also u can specify number of log 
 //git log -4
+
+##Add remote repository
+$git remote<command><remoote_name><remote_URL
