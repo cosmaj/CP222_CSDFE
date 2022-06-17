@@ -25,6 +25,10 @@ $SHELL => ls(1) #fork(2) + exec(3)
 //ls(1) PID M, PPID N, EUID U
 //login file location in fs/nfsd/auth.c
 
+/* To copy the remote repository inn ur local repository use*/
+git clone (gitlink)
+git add  /*to add file in staged area*/
+
 
 /*To check git status */ git status
 /*To congigure global usename and email*/ 
